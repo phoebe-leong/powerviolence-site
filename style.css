@@ -1,0 +1,57 @@
+@font-face {
+	font-family: "Punk Kid";
+	src: url("./fonts/punk-kid/punk kid.ttf");
+}
+
+@font-face {
+	font-family: "VvWweRra";
+	src: url("./fonts/vvwwerratype/VvWweRraType!.ttf");
+}
+
+body {
+	background-image: url("background.jpeg");
+	background-attachment: fixed;
+
+	padding: 0;
+	margin: 0;
+}
+
+#title {
+	margin-top: 5px;
+	text-align: center;
+
+	margin-bottom: 50px;
+}
+
+#title h1 {
+	font-size: 40px;
+}
+
+h1, h2 {
+	padding: 0;
+	margin: 0;
+
+	font-family: "Punk Kid";
+}
+
+p, li, a {
+	font-family: "VvWweRra", monospace;
+	font-size: 14.7px;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+section h2, section p {
+	margin-left: 10px;
+}
+
+.spotify {
+	height: 152px;
+}
+
+.youtube {
+	width: 560px;
+	height: 315px;
+}
