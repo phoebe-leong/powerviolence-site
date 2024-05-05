@@ -1,2 +1,2 @@
 # powerviolence-site
- Made a website about powerviolence
+This is an introductory site for powerviolence, meant to show the history and influential figures of the genre as well as providing resources such as videos, albums, songs, record labels, etc. If you wish to add a resource or propose a change, please either [create an issue](https://github.com/phoebe-leong/powerviolence-site/issues/new) or [a pull request](https://github.com/phoebe-leong/powerviolence-site/compare).
