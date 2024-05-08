@@ -45,4 +45,8 @@ window.addEventListener("load", async (event) => {
 		loadiFrame("bandit-richmond", "https://www.youtube-nocookie.com/embed/wuyiRCEaIWU?si=_gZd4yb99AsAcp4d"),
 		loadiFrame("capitalistcas", "https://www.youtube-nocookie.com/embed/O3o4IaHZLx4?si=nT9Uswog1z8PDq96")
 	])
+	Promise.all([
+		loadiFrame("talkin-schmidt", "https://www.youtube-nocookie.com/embed/r5R5xwnAzIw?si=mdFEcpAxz7FnWgUU"),
+		loadiFrame("chris-dodge", "https://www.youtube-nocookie.com/embed/JyM7tyzkLIg?si=zU8g8eszo14ux2OE")
+	])
 })
